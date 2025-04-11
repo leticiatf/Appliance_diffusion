@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite it as below."
-title: "Appliance Diffusion Model"
+title: "Long-term Appliance Diffusion Model"
 authors:
   - family-names: Tomas Fillol
     given-names: Leticia
